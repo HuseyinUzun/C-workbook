@@ -1,0 +1,8 @@
+C:\C#lessons\examplequestions1\examplequestions1\bin\Debug\examplequestions1.exe.config
+C:\C#lessons\examplequestions1\examplequestions1\bin\Debug\examplequestions1.exe
+C:\C#lessons\examplequestions1\examplequestions1\bin\Debug\examplequestions1.pdb
+C:\C#lessons\examplequestions1\examplequestions1\obj\Debug\examplequestions1.csproj.AssemblyReference.cache
+C:\C#lessons\examplequestions1\examplequestions1\obj\Debug\examplequestions1.csproj.SuggestedBindingRedirects.cache
+C:\C#lessons\examplequestions1\examplequestions1\obj\Debug\examplequestions1.csproj.CoreCompileInputs.cache
+C:\C#lessons\examplequestions1\examplequestions1\obj\Debug\examplequestions1.exe
+C:\C#lessons\examplequestions1\examplequestions1\obj\Debug\examplequestions1.pdb
